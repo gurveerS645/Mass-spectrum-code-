@@ -3,7 +3,7 @@ You can imput your mass spectral data through r-studio, and using this code you 
 
 Please note that this was done on a macbook on the R version 4.3.2.
 ## Files
-- Mass_Spectral_interactive_graphs.qmd
+- Mass_Spectral_interactive_graphs.R
 
 ## First time setup (ensure you have proper r packages before proceeding)
 Run:
